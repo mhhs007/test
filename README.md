@@ -1,2 +1,1 @@
-# test
-Test project created via OpenClaw
+# Test Project - Auto-Deploy Active
